@@ -11,13 +11,10 @@ I have research experience at **WHU**, **HKUST ISOM**, and am currently a **Rese
 
 **Looking for**: MS / PhD opportunities in **CS / IS / DS** for **Fall 2026 / 2027 / 2028**
 
----
 
 ## Connect with Me
-- **Email**: samxiexs@gmail.com   
-- **LinkedIn**: https://www.linkedin.com/in/xssamxie/
+- **Email**: samxiexs@gmail.com   - **LinkedIn**: https://www.linkedin.com/in/xssamxie/
 
----
 
 ## Technical Stack
 
@@ -33,15 +30,6 @@ I have research experience at **WHU**, **HKUST ISOM**, and am currently a **Rese
 - **Databases**: MySQL, SQLite  
 - **Web & Crawling**: Playwright, Selenium  
 
----
-
-## Selected Research & Projects
-- **RankMixer / HSTU / TIGER (RQ-VAE)** for large-scale recommendation systems  
-- Influencer–product matching & experimentation platform (InFound.AI)  
-- Large-scale crawling pipelines (Reddit, SSRN, TripAdvisor, Yelp)  
-- Review similarity, rating precision, and platform design (causal inference)
-
----
 
 ## GitHub Stats
 <p align="left">
