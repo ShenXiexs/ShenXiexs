@@ -1,4 +1,4 @@
-## Hi 👋 I’m Shen Xie (Sam)
+## Hi friends👋 I’m Shen Xie (Sam :)
 
 <table width="100%">
   <tr>
@@ -24,7 +24,7 @@
 
 ---
 
-## Connect with Me
+## Connect with Me :)
 - **Email**: samxiexs@gmail.com  | **LinkedIn**: https://www.linkedin.com/in/xssamxie/
 
 ---
