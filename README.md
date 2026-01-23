@@ -14,16 +14,8 @@ I have research experience at **WHU**, **HKUST ISOM**, and am currently a **Rese
 ---
 
 ## Connect with Me
-- **Email**: samxiexs@gmail.com  
-- **GitHub**: https://github.com/ShenXiexs  
+- **Email**: samxiexs@gmail.com   
 - **LinkedIn**: https://www.linkedin.com/in/xssamxie/
-
----
-
-## Current & Past Affiliations
-- **HEC Paris** — ISOM & AI Lab, Research Assistant  
-- **HKUST** — ISOM, Full-time Research Assistant  
-- **Wuhan University (WHU)** — PPE (Politics, Philosophy & Economics), Honor College  
 
 ---
 
@@ -38,7 +30,7 @@ I have research experience at **WHU**, **HKUST ISOM**, and am currently a **Rese
 - **Backend**: FastAPI, REST APIs  
 - **Infra**: Docker, Kubernetes, Linux  
 - **Messaging & Cache**: RabbitMQ, Redis  
-- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Databases**: MySQL, SQLite  
 - **Web & Crawling**: Playwright, Selenium  
 
 ---
