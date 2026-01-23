@@ -2,14 +2,14 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="center">
       <strong>About Me</strong><br><br>
       I am a research-oriented student working at the intersection of
-      <strong>Information Systems, Machine Learning, and Social Science</strong>.<br><br>
+      <strong>Information Systems, Machine Learning, and Social Science</strong>.<br>
       I have research experience at <strong>WHU</strong>, <strong>HKUST ISOM</strong>,
       and am currently a <strong>Research Assistant at ISOM & AI Lab, HEC Paris</strong>.
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="center">
       <strong>Research Interests</strong><br><br>
       • Recommender Systems & Ranking Models<br>
       • Human–AI Interaction & Platform Strategy<br>
@@ -26,6 +26,7 @@
 
 ## Connect with Me :)
 - **Email**: samxiexs@gmail.com  | **LinkedIn**: https://www.linkedin.com/in/xssamxie/
+
 
 ---
 
@@ -59,10 +60,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36"/>
       <img src="https://raw.githubusercontent.com/detain/svg-logos/selenium-logo.svg" width="36"/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <strong>GitHub Stats</strong><br><br>
+    <td width="33%" valign="center" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shenxiexs&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shenxiexs&label=Profile%20views&color=0e75b6&style=flat" alt="shenxiexs" /> </p>
