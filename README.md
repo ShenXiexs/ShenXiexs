@@ -71,7 +71,9 @@
     </td>
     <td width="40%" valign="top" align="center">
       <strong>GitHub Stats</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shenxiexs&layout=compact&hide_border=true&langs_count=8"/>
+      <div style="display:flex; align-items:center; justify-content:center; height:120px;">
+        <em>coming soon…</em>
+      </div>
     </td>
   </tr>
 </table>
