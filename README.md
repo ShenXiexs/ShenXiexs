@@ -34,8 +34,7 @@
 
 <table width="100%">
   <tr>
-    <!-- Column 1 -->
-    <td width="20%" valign="top">
+    <td width="25%" valign="top">
       <strong>Languages</strong><br><br>
       <div valign="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
@@ -44,7 +43,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/>
       </div>
     </td>
-    <td width="20%" valign="top">
+    <td width="25%" valign="top">
       <strong>ML &amp; Data</strong><br><br>
       <div valign="center">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36"/>
@@ -53,7 +52,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36"/>
       </div>
     </td>
-    <td width="20%" valign="top">
+    <td width="25%" valign="top">
       <strong>Systems &amp; Web</strong><br><br>
       <div valign="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36"/>
@@ -69,11 +68,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36"/>
       </div>
     </td>
-    <td width="40%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <strong>GitHub Stats</strong><br><br>
-      <div style="display:flex; align-items:center; justify-content:center; height:120px;">
-        <em>coming soon…</em>
-      </div>
+      coming soon…
     </td>
   </tr>
 </table>
