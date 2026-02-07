@@ -25,7 +25,7 @@
 ---
 
 ## Connect with Me :)
-- **Email**: samxiexs@gmail.com  | **LinkedIn**: https://www.linkedin.com/in/xssamxie/
+- **Email**: samxiexs@gmail.com  | **LinkedIn**: https://www.linkedin.com/in/xssamxie/ | https://www.linkedin.com/in/samxiexs
 
 
 ---
