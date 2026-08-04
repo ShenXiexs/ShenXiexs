@@ -8,7 +8,7 @@
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/shenxie/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shen%20Xie-blue?style=social&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shen%20Xie-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/samxiexs">
     <img src="https://img.shields.io/github/stars/samxiexs?style=social" />
