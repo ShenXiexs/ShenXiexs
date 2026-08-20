@@ -21,7 +21,7 @@
 
 Hi, I'm Shen Xie (Sam) 👋
 
-I am currently a **Research Assistant at ISOM & AI Lab, HEC Paris**, with prior research experience at **Wuhan University** and **HKUST ISOM**. In Fall 2026, I will join **Georgia Tech** for the **M.S. in Computational Science and Engineering** program. I am interested in building rigorous, data-driven research that connects machine learning systems with real platform, market, and user behavior.
+I am currently a M.S. student in Computational Science and Engineering at **Georgia Tech**. Prior to that, I worked as a full-time Research Assistant at **ISOM & AI Lab, HEC Paris**, with previous research experience at **Wuhan University** and **ISOM, HKUST**. I am interested in building rigorous, data-driven research that connects machine learning systems with real platform, market, and user behavior.
 
 **Looking for:** PhD opportunities in **Computer Science / Information Systems**  
 **Target intake:** **Fall 2028**
